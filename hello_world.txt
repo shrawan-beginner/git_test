@@ -1,1 +1,2 @@
 This is a demo for using git.
+This is a new line to test git commit text editor.
